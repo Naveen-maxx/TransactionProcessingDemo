@@ -1,0 +1,14 @@
+C:\Users\rsnav\Documents\C#\TransactionProcessingDemo\bin\Debug\net10.0\TransactionProcessingDemo.exe
+C:\Users\rsnav\Documents\C#\TransactionProcessingDemo\bin\Debug\net10.0\TransactionProcessingDemo.deps.json
+C:\Users\rsnav\Documents\C#\TransactionProcessingDemo\bin\Debug\net10.0\TransactionProcessingDemo.runtimeconfig.json
+C:\Users\rsnav\Documents\C#\TransactionProcessingDemo\bin\Debug\net10.0\TransactionProcessingDemo.dll
+C:\Users\rsnav\Documents\C#\TransactionProcessingDemo\bin\Debug\net10.0\TransactionProcessingDemo.pdb
+C:\Users\rsnav\Documents\C#\TransactionProcessingDemo\obj\Debug\net10.0\TransactionProcessingDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rsnav\Documents\C#\TransactionProcessingDemo\obj\Debug\net10.0\TransactionProcessingDemo.AssemblyInfoInputs.cache
+C:\Users\rsnav\Documents\C#\TransactionProcessingDemo\obj\Debug\net10.0\TransactionProcessingDemo.AssemblyInfo.cs
+C:\Users\rsnav\Documents\C#\TransactionProcessingDemo\obj\Debug\net10.0\TransactionProcessingDemo.csproj.CoreCompileInputs.cache
+C:\Users\rsnav\Documents\C#\TransactionProcessingDemo\obj\Debug\net10.0\TransactionProcessingDemo.dll
+C:\Users\rsnav\Documents\C#\TransactionProcessingDemo\obj\Debug\net10.0\refint\TransactionProcessingDemo.dll
+C:\Users\rsnav\Documents\C#\TransactionProcessingDemo\obj\Debug\net10.0\TransactionProcessingDemo.pdb
+C:\Users\rsnav\Documents\C#\TransactionProcessingDemo\obj\Debug\net10.0\TransactionProcessingDemo.genruntimeconfig.cache
+C:\Users\rsnav\Documents\C#\TransactionProcessingDemo\obj\Debug\net10.0\ref\TransactionProcessingDemo.dll
